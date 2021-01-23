@@ -4,5 +4,7 @@ Proyecto realizado para la materia Estructura de Datos de la ESPOL.
 
 ## Capturas
 ![alt text](https://github.com/domorales/ArbolCodigoMorse/blob/main/Capturas/arbol.png) 
+
 ![alt text](https://github.com/domorales/ArbolCodigoMorse/blob/main/Capturas/arbolbajando.png) 
+
 ![alt text](https://github.com/domorales/ArbolCodigoMorse/blob/main/Capturas/solucion.png) 
